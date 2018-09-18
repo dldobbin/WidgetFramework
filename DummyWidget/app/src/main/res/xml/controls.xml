@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <main classname="com.dics.widgetframework.CloseControl" drawable="main">
-    <control classname="com.dics.dummywidget.controls.DummyControl" drawable = "number1" />
+    <control classname="com.dics.dummywidget.controls.Foo$ResetControl" drawable = "number1" />
     <control classname="com.dics.dummywidget.controls.DummyControl" drawable = "number2" />
     <control classname="com.dics.dummywidget.controls.DummyControl" drawable = "number3" />
     <control classname="com.dics.dummywidget.controls.HelloControl" drawable = "number4" />
-    <control classname="com.dics.dummywidget.controls.DummyControl" drawable = "number5" />
+    <control classname="com.dics.dummywidget.controls.Foo$NestedControl" drawable = "number5" />
 </main>

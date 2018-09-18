@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<main classname="dics.clappies.controls.TapControl" drawable="ic_launcher_round">
+    <control classname="com.dics.widgetframework.CloseControl" drawable="ic_close" />
+    <control classname="dics.clappies.controls.NewTextControl" drawable="ic_edit" />
+</main>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Clappies</string>
+    <string name="title_activity_main">Clappies</string>
+    <string name="title_activity_text">TextActivity</string>
+</resources>

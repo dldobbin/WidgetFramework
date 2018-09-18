@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+    android:id="@+id/collapse_view"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/close_btn"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_centerInParent="true"
+            android:src="@drawable/ic_close"/>
+
+        <ImageView
+            android:id="@+id/move_btn"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_centerInParent="true"
+            android:src="@drawable/ic_move"/>
+
+        <ImageView
+            android:id="@+id/edit_btn"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_centerInParent="true"
+            android:src="@drawable/ic_edit"/>
+
+        <ImageView
+            android:id="@+id/main_btn"
+            android:layout_width="60dp"
+            android:layout_height="80dp"
+            android:src="@mipmap/ic_launcher_round"/>
+
+
+    </RelativeLayout>
+</FrameLayout>
